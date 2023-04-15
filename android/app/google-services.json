@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409859968364",
+    "project_id": "quiz2cloning",
+    "storage_bucket": "quiz2cloning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409859968364:android:fe12de48cd4a83d3047749",
+        "android_client_info": {
+          "package_name": "com.example.quiz2sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409859968364-ig17hdnvchqo6c293nc7f59ne24i2pqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjoXYa1qBjurMfWvXGS0HdYyzeoicBIOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409859968364-ig17hdnvchqo6c293nc7f59ne24i2pqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
